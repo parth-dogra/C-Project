@@ -1,8 +1,3 @@
-Here is a **perfect, clean, professional README.md** you can put on GitHub for your **Personal Expense Tracker (C Project)**.
-It is written exactly in standard GitHub style—clear, structured, and impressive.
-
----
-
 # **Personal Expense Tracker (Budget Manager)**
 
 A console-based C application to record, manage, and analyze daily expenses using dynamic memory allocation and file handling.
@@ -162,7 +157,3 @@ Programming in C Project
 
 This project is for academic and personal use only.
 Feel free to study, modify, and improve it.
-
----
-
-If you want, I can also create a **professional README badge section**, **screenshots section**, or a **GitHub banner** for your repository.
